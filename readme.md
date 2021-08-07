@@ -1,13 +1,13 @@
 |                        | Library | Install | Manage | Achievements | Trading Cards<br /> & Badges | Wishlist | Pricing |
-|------------------------|---------|---------|--------|--------------|----------------------|----------|---------|
-| Steam                  |   ✓     |  ✓      | ✓      | ✓            | ✓                    | ✓        | ✓       |
-| GOG                    |   ✓     |  L      | ✓      | ✓            | X                    | ✓        | ✓       |
-| Uplay                  |   ✓     |  L      | ✓      | X            | ✓                    | X        | X       |
-| Origin                 |   ✓     |  L      | ✓      | ✓            | X                    | X        | X       |
-| Epic Games (Legendary) |   ✓     |  ✓      | ✓      | X            | X                    | X        | ✓       |
-| Lutris                 |   *     |  ✓      | X      | N/A          | N/A                  | N/A      | N/A     |
-| Humble Bundle          | X       | X       | X      | N/A          | N/A                  | X        | ✓       |
-| Fanatical              | X       | X       | X      | N/A          | N/A                  | X        | ✓       |
+|------------------------|---------|---------|--------|--------------|------------------------------|----------|---------|
+| Steam                  |   ✓     |  ✓      | ✓      | ✓            | ✓                            | ✓        | ✓       |
+| GOG                    |   ✓     |  L      | ✓      | ✓            | X                            | ✓        | ✓       |
+| Uplay                  |   ✓     |  L      | ✓      | X            | ✓                            | X        | X       |
+| Origin                 |   ✓     |  L      | ✓      | ✓            | X                            | X        | X       |
+| Epic Games (Legendary) |   ✓     |  ✓      | ✓      | X            | X                            | X        | ✓       |
+| Lutris                 |   *     |  ✓      | X      | N/A          | N/A                          | N/A      | N/A     |
+| Humble Bundle          | X       | X       | X      | N/A          | N/A                          | X        | ✓       |
+| Fanatical              | X       | X       | X      | N/A          | N/A                          | X        | ✓       |
 
 
 
