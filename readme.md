@@ -1,4 +1,4 @@
-|                        | Library | Install | Manage | Achievements | Trading Cards \ /Badges | Wishlist | Pricing |
+|                        | Library | Install | Manage | Achievements | Trading Cards / Badges | Wishlist | Pricing |
 |------------------------|---------|---------|--------|--------------|----------------------|----------|---------|
 | Steam                  |   ✓     |  ✓      | ✓      | ✓            | ✓                    | ✓        | ✓       |
 | GOG                    |   ✓     |  L      | ✓      | ✓            | X                    | ✓        | ✓       |
