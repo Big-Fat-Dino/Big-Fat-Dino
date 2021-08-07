@@ -1,8 +1,8 @@
 |                        | Library | Install | Manage | Achievements | Trading Cards<br /> & Badges | Wishlist | Pricing |
 |------------------------|---------|---------|--------|--------------|------------------------------|----------|---------|
 | Steam                  |   ✓     |  ✓      | ✓      | ✓            | ✓                            | ✓        | ✓       |
-| GOG                    |   ✓     |  L      | ✓      | ✓            | X                            | ✓        | ✓       |
-| Uplay                  |   ✓     |  L      | ✓      | X            | N/A                          | X        | X       |
+| GOG                    |   ✓     |  L      | ✓      | ✓            | N/A                          | ✓        | ✓       |
+| Uplay                  |   ✓     |  L      | ✓      | X            | ✓                            | X        | X       |
 | Origin                 |   ✓     |  L      | ✓      | ✓            | N/A                          | X        | X       |
 | Epic Games (Legendary) |   ✓     |  ✓      | ✓      | X            | N/A                          | X        | ✓       |
 | Lutris                 |   *     |  ✓      | X      | N/A          | N/A                          | N/A      | N/A     |
