@@ -5,7 +5,7 @@
 | Uplay                  |   ✓     |  ✓      | ✓      | X            | ✓                    | X        | X       |
 | Origin                 |   ✓     |  ✓      | ✓      | ✓            | X                    | X        | X       |
 | Epic Games (Legendary) |   ✓     |  ✓      | ✓      | X            | X                    | X        | ✓       |
-| Lutris                 |   *     |         | X      | N/A          | N/A                  | N/A      | N/A     |
+| Lutris                 |   *     |  ✓       | X      | N/A          | N/A                  | N/A      | N/A     |
 | Humble Bundle          | X       | X       | X      | N/A          | N/A                  | X        | ✓       |
 | Fanatical              | X       | X       | X      | N/A          | N/A                  | X        | ✓       |
 
