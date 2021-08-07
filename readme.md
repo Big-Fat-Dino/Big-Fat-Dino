@@ -2,9 +2,9 @@
 |------------------------|---------|---------|--------|--------------|------------------------------|----------|---------|
 | Steam                  |   ✓     |  ✓      | ✓      | ✓            | ✓                            | ✓        | ✓       |
 | GOG                    |   ✓     |  L      | ✓      | ✓            | X                            | ✓        | ✓       |
-| Uplay                  |   ✓     |  L      | ✓      | X            | ✓                            | X        | X       |
-| Origin                 |   ✓     |  L      | ✓      | ✓            | X                            | X        | X       |
-| Epic Games (Legendary) |   ✓     |  ✓      | ✓      | X            | X                            | X        | ✓       |
+| Uplay                  |   ✓     |  L      | ✓      | X            | N/A                          | X        | X       |
+| Origin                 |   ✓     |  L      | ✓      | ✓            | N/A                          | X        | X       |
+| Epic Games (Legendary) |   ✓     |  ✓      | ✓      | X            | N/A                          | X        | ✓       |
 | Lutris                 |   *     |  ✓      | X      | N/A          | N/A                          | N/A      | N/A     |
 | Humble Bundle          | X       | X       | X      | N/A          | N/A                          | X        | ✓       |
 | Fanatical              | X       | X       | X      | N/A          | N/A                          | X        | ✓       |
@@ -23,5 +23,24 @@ Current features
 * Intergrated ProtonDB compatibility ratings
 * Installation, uninstallation, management, and launching of games
 * Search
-* Automatic categories, eg you can create a category for all the shooters in your library.
-* Themes, with Light, Dark and Yellow mode. 
+* Automatic and manual library categories, eg you can create a category for all the shooters in your library
+* Themes, with Light, Dark and Yellow mode.
+* Wishlist, with pricing from all stores
+
+Planned features for full release
+* Automatically generate cover for Steam backup disks
+* Detection of installed games that don't require a launcher - eg Minecraft.
+* Optional Discord intergration - like legendary - so your Friends can see what you're playing.
+* Many Easter eggs
+* Cloud syncs of savegames (connected to OS)
+* Monitoring of downloads, and notifications for updates
+* Low Ram usage mode - for when a game is being played.
+* Hide unwanted games, useful for free games that can not be removed from libraries. (eg Fortnite)
+* Regional pricing
+* Sort games
+
+
+Planned features for future
+* Full-Screen mode - with built in browser.
+* UI controller support
+* Intergration with Steam Friend activity, so you can jump into games your mates are playing.
