@@ -12,7 +12,7 @@
 
 
 * *Needs to be added manually as "custom game" if the game is not already in your library from a different launcher. Once that is done it should work.
-<br />L: Must install using another launcher - eg Lutris*
+<br />L: Must install theough another launcher - eg Lutris*
 
 
 Current features
