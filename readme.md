@@ -13,3 +13,9 @@
 
 * *Needs to be added manually as "custom game" if the game is not already in your library from a different launcher. Once that is done it should work.
 <br />L: Must install using another launcher - eg Lutris*
+
+
+Current themes
+* Dark Mode
+* Light Mode
+* Yellow Mode
