@@ -15,7 +15,13 @@
 <br />L: Must install using another launcher - eg Lutris*
 
 
-Current themes
-* Dark Mode
-* Light Mode
-* Yellow Mode
+Current features
+* Automatic cloud sync of library, game information and assets.
+* Automatic detection of installed games
+* Achievements, badges, and statistics.
+* News from the steam news API
+* Intergrated ProtonDB compatibility ratings
+* Installation, uninstallation, management, and launching of games
+* Search
+* Automatic categories, eg you can create a category for all the shooters in your library.
+* Themes, with Light, Dark and Yellow mode. 
