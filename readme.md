@@ -49,5 +49,5 @@ Planned features for future
 Requirements
 **YOU MUST HAVE THE FOLLOWING PACKAGES INSTALLED TO RUN THE ALPHA**
 - Steam & Lutris
-*And optionally, depending on whether you enable the Epic Games Store in App:*
+<br />*And optionally, depending on whether you enable the Epic Games Store in App:*
 - Legendary and Heroic.
