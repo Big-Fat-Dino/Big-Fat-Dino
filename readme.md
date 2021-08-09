@@ -20,7 +20,7 @@ Current features
 * Automatic detection of installed games
 * Achievements, badges, and statistics.
 * News from the steam news API
-* Intergrated ProtonDB compatibility ratings
+* Integrated ProtonDB compatibility ratings
 * Installation, uninstallation, management, and launching of games
 * Search
 * Automatic and manual library categories, eg you can create a category for all the shooters in your library
@@ -30,7 +30,7 @@ Current features
 Planned features for full release
 * Automatically generate cover for Steam backup disks
 * Detection of installed games that don't require a launcher - eg Minecraft.
-* Optional Discord intergration - like legendary - so your Friends can see what you're playing.
+* Optional Discord integration - like legendary - so your Friends can see what you're playing.
 * Many Easter eggs
 * Cloud syncs of savegames (connected to OS)
 * Monitoring of downloads, and notifications for updates
@@ -43,7 +43,7 @@ Planned features for full release
 Planned features for future
 * Full-Screen mode - with built in browser.
 * UI controller support
-* Intergration with Steam Friend activity, so you can jump into games your mates are playing.
+* Integration with Steam Friend activity, so you can jump into games your mates are playing.
 
 
 Requirements
