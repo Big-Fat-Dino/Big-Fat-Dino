@@ -44,3 +44,10 @@ Planned features for future
 * Full-Screen mode - with built in browser.
 * UI controller support
 * Intergration with Steam Friend activity, so you can jump into games your mates are playing.
+
+
+Requirements
+**YOU MUST HAVE THE FOLLOWING PACKAGES INSTALLED TO RUN THE ALPHA**
+- Steam & Lutris
+*And optionally, depending on whether you enable the Epic Games Store in App:*
+- Legendary and Heroic.
